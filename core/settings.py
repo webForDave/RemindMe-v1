@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     # local
     "accounts.apps.AccountsConfig",
+    "reminders.apps.RemindersConfig",
 ]
 
 MIDDLEWARE = [
